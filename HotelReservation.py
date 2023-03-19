@@ -1,5 +1,3 @@
-# Earl Miller CIS261 Lab Hotel Reservation
-
 from datetime import datetime
 import locale
 
